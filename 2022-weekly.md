@@ -1,4 +1,24 @@
-## 1月
+# 技术趋势
+[2021 Web Components 技术趋势解读](https://mp.weixin.qq.com/s/VLmplSwJyaj7DW9HCY99iA)
+
+
+[9年研发经验，扫地盲僧带你看2022年前端未来发展趋势](https://juejin.cn/post/7036294322567774239)
+
+# 技术实现
+[如何优雅地给对象的所有方法添加异常处理](https://mp.weixin.qq.com/s/hehUH9HL6unaLWq3LzQxNg)
+
+
+[分享小技巧：实现在浏览器中import内联JS模块](https://mp.weixin.qq.com/s/ghWlsNLu1JhnoiC7oouv8g)
+
+
+[突破限制，CSS font-variation 可变字体的魅力](https://zhuanlan.zhihu.com/p/473485760)
+
+
+[防御性设计和开发](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
+
+[React内部的性能优化没有达到极致？](https://mp.weixin.qq.com/s/zbDW3pBj-w9m59o_4SIfZA)
+
+# 拓展视野
 [基于 RxJS 构建稳健前端应用](https://zhuanlan.zhihu.com/p/451099107)
 
 
@@ -11,7 +31,6 @@
 [“和 loading 界面说 ByeBye”—— Remix 颠覆式预加载解析](https://mp.weixin.qq.com/s/nCXRXPZvyhZFIGlyfdvfAQ)
 
 
-## 2月
 [SpringBoot是如何解析参数的](https://juejin.cn/post/6844903841775747079)
 
 
@@ -32,5 +51,7 @@
 
 [函数式编程（FP）](https://mp.weixin.qq.com/s/ttQy_v-_QBKjcz2LPZvfNQ)
 
-## 3月
 [【雷火UX数据可视化】浅析网页动画](https://mp.weixin.qq.com/s/tia5gvOqILknMXBx8ebMrw)
+
+# 工具
+[手绘风格的图表](https://github.com/jwilber/roughViz)
