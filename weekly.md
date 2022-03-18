@@ -18,6 +18,8 @@
 
 [React内部的性能优化没有达到极致？](https://mp.weixin.qq.com/s/zbDW3pBj-w9m59o_4SIfZA)
 
+[Decorator 装饰器](https://mp.weixin.qq.com/s/DexxNuRG-x29dZrWCcJDuQ)
+
 # 拓展视野
 [基于 RxJS 构建稳健前端应用](https://zhuanlan.zhihu.com/p/451099107)
 
@@ -55,3 +57,5 @@
 
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
+
+[开发一款专属的 VSCode 代码提示插件](https://mp.weixin.qq.com/s/e2gfSnBrR6rn7x37ZGLplg)
