@@ -55,6 +55,8 @@
 
 [【雷火UX数据可视化】浅析网页动画](https://mp.weixin.qq.com/s/tia5gvOqILknMXBx8ebMrw)
 
+[Solid.js 就是我理想中的 React](https://mp.weixin.qq.com/s/0sGJ9r_9C9EPzliEkUuyTg)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
