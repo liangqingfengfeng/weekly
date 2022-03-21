@@ -23,6 +23,9 @@
 # 技术原理
 [React Hooks 的原理，有的简单有的不简单](https://mp.weixin.qq.com/s/u89G-Uas0mzZQsiWT_4EZQ)
 
+
+[The Double-Assignment Pattern In JQuery's Source Code](https://www.zhenghao.io/posts/double-assignment)
+
 # 拓展视野
 [基于 RxJS 构建稳健前端应用](https://zhuanlan.zhihu.com/p/451099107)
 
@@ -64,3 +67,6 @@
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
 [开发一款专属的 VSCode 代码提示插件](https://mp.weixin.qq.com/s/e2gfSnBrR6rn7x37ZGLplg)
+
+
+[Emoji Button: A Vanilla JavaScript Emoji Picker](https://emoji-button.js.org/)
