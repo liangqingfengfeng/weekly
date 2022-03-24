@@ -22,6 +22,10 @@
 
 [My Experience Building A Chess App In React](https://dev.to/fredlitt/my-experience-building-a-chess-app-in-react-2hl6)
 
+[5 things you don't need Javascript for](https://lexoral.com/blog/you-dont-need-js/)
+
+[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)](https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/)
+
 # 技术原理
 [React Hooks 的原理，有的简单有的不简单](https://mp.weixin.qq.com/s/u89G-Uas0mzZQsiWT_4EZQ)
 
@@ -64,6 +68,8 @@
 [【雷火UX数据可视化】浅析网页动画](https://mp.weixin.qq.com/s/tia5gvOqILknMXBx8ebMrw)
 
 [Solid.js 就是我理想中的 React](https://mp.weixin.qq.com/s/0sGJ9r_9C9EPzliEkUuyTg)
+
+[It's always been you, Canvas2D](https://developer.chrome.com/blog/canvas2d/)
 
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
