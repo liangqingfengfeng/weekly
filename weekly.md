@@ -71,6 +71,8 @@
 
 [It's always been you, Canvas2D](https://developer.chrome.com/blog/canvas2d/)
 
+[过度使用懒加载对 Web 性能的影响](https://mp.weixin.qq.com/s/Yb4bN_jjVOo2xUDPeKD_GA)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
@@ -78,3 +80,5 @@
 
 
 [Emoji Button: A Vanilla JavaScript Emoji Picker](https://emoji-button.js.org/)
+
+[Million is a lightweight, compiler-augmented virtual DOM.](https://millionjs.org/)
