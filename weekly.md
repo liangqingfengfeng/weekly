@@ -73,6 +73,8 @@
 
 [过度使用懒加载对 Web 性能的影响](https://mp.weixin.qq.com/s/Yb4bN_jjVOo2xUDPeKD_GA)
 
+[WebGL 动画工业化探索与实践](https://www.infoq.cn/article/MSZQ5EcR5T5QqfAtMf3J)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
