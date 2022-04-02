@@ -77,6 +77,8 @@
 
 [大规模 Node.js 网关的架构设计与工程实践](https://www.infoq.cn/article/KtgQDQS3qxus5zhNyuA0)
 
+[Nest.js 是如何实现 AOP 架构的？](https://www.tuicool.com/articles/uYN7JzN)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
