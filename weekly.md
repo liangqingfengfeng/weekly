@@ -79,6 +79,8 @@
 
 [Nest.js 是如何实现 AOP 架构的？](https://www.tuicool.com/articles/uYN7JzN)
 
+[Chrome 100支持多屏应用了！](https://mp.weixin.qq.com/s/DzpSn8VTfGhF-rN89E158A)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
