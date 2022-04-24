@@ -81,6 +81,8 @@
 
 [Chrome 100支持多屏应用了！](https://mp.weixin.qq.com/s/DzpSn8VTfGhF-rN89E158A)
 
+[React 18 全览](https://mp.weixin.qq.com/s/N6MBhe4fkHO49ZqVNBPflQ)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
