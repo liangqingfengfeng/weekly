@@ -83,6 +83,8 @@
 
 [React 18 全览](https://mp.weixin.qq.com/s/N6MBhe4fkHO49ZqVNBPflQ)
 
+[边缘渲染是如何前端性能的？](https://mp.weixin.qq.com/s/n7C-XCnmZ-Imx04FbV3zQg)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
