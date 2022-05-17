@@ -91,6 +91,8 @@
 
 [React 并发渲染的前世今生](https://mp.weixin.qq.com/s/01sTK6w4BFUzoRc2NKCs1w)
 
+[What the useEvent React hook is (and isn't)](https://typeofnan.dev/what-the-useevent-react-hook-is-and-isnt/)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
