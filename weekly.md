@@ -28,6 +28,8 @@
 
 [Web页面全链路性能优化指南](https://mp.weixin.qq.com/s?__biz=Mzg4NTE3NTY4Mg==&mid=2247485744&idx=1&sn=fd04230edff9c4291ac132c956266dfd&chksm=cfadadddf8da24cb447d3b5194ee54e19875a2d5974f7f34ec571634e1ea0708c163c4d084cd&token=1008676742&lang=zh_CN#rd)
 
+[前端监控体系搭建](https://mp.weixin.qq.com/s/7c0yqwSxK-FvLm1iKZrjmQ)
+
 # 技术原理
 [React Hooks 的原理，有的简单有的不简单](https://mp.weixin.qq.com/s/u89G-Uas0mzZQsiWT_4EZQ)
 
