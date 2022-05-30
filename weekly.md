@@ -95,6 +95,8 @@
 
 [What the useEvent React hook is (and isn't)](https://typeofnan.dev/what-the-useevent-react-hook-is-and-isnt/)
 
+[HTTP 的缓存为什么这么设计？](https://mp.weixin.qq.com/s/0P8_lnVf2_zMzIBJ20qajA)
+
 # 工具
 [手绘风格的图表](https://github.com/jwilber/roughViz)
 
